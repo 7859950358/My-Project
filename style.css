@@ -1,3 +1,15 @@
-p{
-    color: red;
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+#main-slider{
+    width: 100%;
+}
+
+#section2{
+    display: flex;
+    justify-content: space-between;
+    
 }
